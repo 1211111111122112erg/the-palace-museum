@@ -1,0 +1,45 @@
+* {
+    box-sizing:border-box;
+}
+
+html {
+    font-family: helvetica;
+    color: floralwhite
+}
+
+.palace{
+   
+    font-family: fantasy;
+    font-size: 24px;
+    background-color:chocolate
+}
+
+.small {
+    height: 40px;
+}
+
+.green{
+    color: #00ff00;
+}
+
+.blue{
+    border: 5px #0000ff solid;
+}
+
+.ha{
+    font-family: cursive
+}
+
+img{
+    box-shadow: 5px 5px #ba3333;
+}
+
+#logo{
+    box-shadow: none;
+}
+
+#special-pic{
+    box-shadow: 15px 15px skyblue;
+}
+
+
