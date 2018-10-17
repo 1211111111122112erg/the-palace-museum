@@ -18,12 +18,12 @@ html {
     height: 40px;
 }
 
-.green{
-    color: #00ff00;
+.yellow{
+    color: antiquewhite;
 }
 
-.blue{
-    border: 5px #0000ff solid;
+.box{
+    border: 2px #0000ff solid;
 }
 
 .ha{
